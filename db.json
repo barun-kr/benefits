@@ -1,0 +1,10 @@
+{
+	"data": {
+		"tier": {
+			"clientCount": 6,
+			"level": "Gold"
+		},
+		"certified": "Basic",
+		"entitlements": false
+	}
+}

@@ -1,10 +1,9 @@
 {
 	"data": {
 		"tier": {
-			"clientCount": 6,
-			"level": "Gold"
+			"clientCount": 22,
+			"level": "Diamond"
 		},
-		"certified": "Basic",
-		"entitlements": false
+		"entitlements": true
 	}
 }
